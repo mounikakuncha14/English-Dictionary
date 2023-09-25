@@ -1,0 +1,69 @@
+body {
+    margin: 0;
+    display: flex;
+    min-height: 100vh;
+    justify-content:safe;
+    background-color: rgba(255,255,255,255);
+    align-items: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-image: url('https://www.seekpng.com/png/detail/26-269289_emoji-directory-discord-street-mashaquestion-source-anime-kayako.png');
+    background-size:contain;
+    
+    background-repeat: no-repeat;
+    background-position:right;
+}
+
+.container {
+    background-color: rgba(71,69,82,255);
+    padding: px;
+    border-radius: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    box-shadow: 0 10px 10px rgba(0, 0, 0, .3);
+    width: 100%;
+    margin: 10px;
+    max-width: 450px;
+    text-align: center;
+    font-size: 18px;
+    color: aliceblue;
+    font-weight: 500;
+}
+
+.heading {
+    font-size: 28px;
+}
+
+.input {
+    height: 55px;
+    width: 300px;
+    background-color: rgba(254,239,232,255);
+    border-color: rgba(255, 255, 255, .4);
+    font-size: 25px;
+    padding: 0 42px;
+    font-weight: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border-radius: 5px;
+    color: rgb(20, 20, 58);
+}
+
+.meaning-container {
+    display: none;
+    margin-top: 15px;
+}
+
+.info-text {
+    display: block;
+    margin-bottom: 10px;
+}
+
+.meaning-container.show {
+    display: block;
+}
+
+.audio {
+    display: none;
+    margin-top: 20px;
+}
+
+.meaning-container.show .audio {
+    display: inline-flex;
+}
