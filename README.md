@@ -4,7 +4,7 @@ This project is a simple English dictionary web application that allows users to
 
 ## Preview
 
-![English Dictionary Preview](English Dictionary main.png)
+![English Dictionary Preview](.English Dictionary main.png)
 
 ## Live Version
 
