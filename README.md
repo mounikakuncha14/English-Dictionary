@@ -17,7 +17,7 @@ Open the above link in a web browser.
 
 Type a word in the input field and press Enter to search for its meaning.
 
-Technologies Used
+## Technologies Used
 HTML
 CSS
 JavaScript
