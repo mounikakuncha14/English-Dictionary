@@ -9,14 +9,11 @@ This web application is a simple English dictionary that allows users to search 
 
 ## Preview
 
-![English Dictionary Preview](https://www.awesomescreenshot.com/image/42080836?key=70ed3ba3129ff909567b73fb0ad5627b)
+![English Dictionary Preview](English Dictionary main.png)
 
-## How to Use
-
-1. Clone the repository to your local machine:
-   ```bash
-   git clone https://mounikakuncha14.github.io/English-Dictionary/
-Open the index.html file in a web browser.
+## live server
+live server git clone https://mounikakuncha14.github.io/English-Dictionary/
+Open the above link in a web browser.
 
 Type a word in the input field and press Enter to search for its meaning.
 
